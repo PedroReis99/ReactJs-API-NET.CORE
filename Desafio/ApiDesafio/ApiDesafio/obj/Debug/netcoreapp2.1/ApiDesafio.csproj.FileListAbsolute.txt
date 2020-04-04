@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\Desafio\ApiDesafio\ApiDesafio\bin\Debug\netcoreapp2.1\ApiDesafio.deps.json
+C:\Users\Dell\Desktop\Desafio\ApiDesafio\ApiDesafio\bin\Debug\netcoreapp2.1\ApiDesafio.runtimeconfig.json
+C:\Users\Dell\Desktop\Desafio\ApiDesafio\ApiDesafio\bin\Debug\netcoreapp2.1\ApiDesafio.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\Desafio\ApiDesafio\ApiDesafio\bin\Debug\netcoreapp2.1\ApiDesafio.dll
+C:\Users\Dell\Desktop\Desafio\ApiDesafio\ApiDesafio\obj\Debug\netcoreapp2.1\ApiDesafio.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Desafio\ApiDesafio\ApiDesafio\obj\Debug\netcoreapp2.1\ApiDesafio.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Desafio\ApiDesafio\ApiDesafio\obj\Debug\netcoreapp2.1\ApiDesafio.RazorAssemblyInfo.cache
+C:\Users\Dell\Desktop\Desafio\ApiDesafio\ApiDesafio\obj\Debug\netcoreapp2.1\ApiDesafio.RazorAssemblyInfo.cs
+C:\Users\Dell\Desktop\Desafio\ApiDesafio\ApiDesafio\obj\Debug\netcoreapp2.1\ApiDesafio.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Desafio\ApiDesafio\ApiDesafio\obj\Debug\netcoreapp2.1\ApiDesafio.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Desafio\ApiDesafio\ApiDesafio\obj\Debug\netcoreapp2.1\ApiDesafio.RazorTargetAssemblyInfo.cache
+C:\Users\Dell\Desktop\Desafio\ApiDesafio\ApiDesafio\bin\Debug\netcoreapp2.1\ApiDesafio.pdb
+C:\Users\Dell\Desktop\Desafio\ApiDesafio\ApiDesafio\obj\Debug\netcoreapp2.1\ApiDesafio.dll
+C:\Users\Dell\Desktop\Desafio\ApiDesafio\ApiDesafio\obj\Debug\netcoreapp2.1\ApiDesafio.pdb

@@ -1,0 +1,128 @@
+.Table-div {
+    margin-top: 50px;
+    margin-right: 120px;
+    margin-left: 190px;
+    width: 1100px;
+    height: 430px;
+    background: #fff;
+    border: solid #4b0082 3.5px;
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: 20px;
+    -moz-border-radius: 10px;
+    padding: 0px;
+    justify-content: center;
+    align-items: center;
+}
+
+.Total {
+    width: 94%;
+    height: 100%;
+}
+
+.Table-div form#Form-Table {
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.Table-div input#Caixa-Pesquisa {
+    width: 210px;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    border: solid #4b0082 2px;
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: 40px;
+    -moz-border-radius: 5px;
+    padding: 0px;
+    justify-content: center;
+    align-items: center;
+}
+
+.Table-div table#Tabela-produtos {
+    margin-top: 10px;
+    margin-left: 40px;
+    width: 95%;
+    height: 330px;
+    border: solid #4b0082 2px;
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: 20px;
+    -moz-border-radius: 5px;
+    padding: 0px;
+    justify-content: center;
+    align-items: center;
+    font-size: 25;
+    color: black;
+}
+
+.Table-div th {
+    margin-top: 10px;
+    height: 10px;
+    background: #4b0082;
+    border: solid #4b0082 1px;
+    border-collapse: collapse;
+    border-spacing: 0;
+    border-radius: 25px;
+    -moz-border-radius: 5px;
+    padding: 0px;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+
+.Table-div th#Cod {
+    margin-top: 10px;
+    height: 10px;
+    width: 250px;
+    background: #4b0082;
+    border: solid #4b0082 1px;
+    border-collapse: collapse;
+    border-spacing: 0;
+    border-radius: 25px;
+    -moz-border-radius: 5px;
+    padding: 0px;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+
+.Table-div th#Value {
+    margin-top: 10px;
+    height: 10px;
+    width: 250px;
+    background: #4b0082;
+    border: solid #4b0082 1px;
+    border-collapse: collapse;
+    border-spacing: 0;
+    border-radius: 25px;
+    -moz-border-radius: 5px;
+    padding: 0px;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+
+.Table-div th#Rodape-tabela {
+    margin-top: 10px;
+    height: 10px;
+    width: 250px;
+    background: #4b0082;
+    border: solid #4b0082 1px;
+    border-collapse: collapse;
+    border-spacing: 0;
+    border-radius: 25px;
+    -moz-border-radius: 5px;
+    padding: 0px;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+
+.Table-div table td {
+    justify-content: center;
+    align-items: center;
+    text-justify: auto;
+    height: 60px;
+}

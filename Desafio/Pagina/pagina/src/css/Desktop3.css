@@ -1,0 +1,59 @@
+.Lobby-Upload {
+    margin-top: 40px;
+    margin-left: 50px;
+    width: 1200px;
+    height: 70%;
+    background: #ffffff;
+    border: solid #ffffff 3.5px;
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    padding: 0px;
+    justify-content: center;
+    align-items: center;
+}
+
+.Lobby-Upload button#enviar{
+    width: 92px;
+    height: 40px;
+    margin-left: 1090px;
+    margin-top: 10px;
+    background: #FF8C00;
+    border: solid #FF8C00 3px;
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: 90px;
+    -moz-border-radius: 10px;
+    padding: 0px;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.Div-Upload {
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 450px;
+    height: 350px;
+    background: #DCDCDC;
+    border: dashed #000000 5px;
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: 15px;
+    -moz-border-radius: 10px;
+    padding: 0px;
+    justify-content: center;
+    align-items: center;
+}
+
+.Div-Upload h4{
+    color: #808080;
+}
+
+.Div-Upload a{
+    color: #4b0082;
+}
